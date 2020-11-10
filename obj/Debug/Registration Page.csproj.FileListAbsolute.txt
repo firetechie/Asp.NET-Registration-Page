@@ -1,0 +1,71 @@
+C:\Users\PC\source\repos\Registration Page\obj\Debug\Registration Page.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Registration Page\obj\Debug\Registration Page.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Registration Page\bin\Registration Page.dll.config
+C:\Users\PC\source\repos\Registration Page\bin\Registration Page.dll
+C:\Users\PC\source\repos\Registration Page\bin\Registration Page.pdb
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\csc.exe
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\csc.exe.config
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\csc.rsp
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\csi.exe
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\csi.exe.config
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\csi.rsp
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.AppContext.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Console.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\vbc.exe
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\vbc.exe.config
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\vbc.rsp
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\source\repos\Registration Page\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\source\repos\Registration Page\bin\Antlr3.Runtime.dll
+C:\Users\PC\source\repos\Registration Page\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PC\source\repos\Registration Page\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PC\source\repos\Registration Page\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PC\source\repos\Registration Page\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PC\source\repos\Registration Page\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\source\repos\Registration Page\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PC\source\repos\Registration Page\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PC\source\repos\Registration Page\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\source\repos\Registration Page\bin\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\Registration Page\bin\System.Web.Optimization.dll
+C:\Users\PC\source\repos\Registration Page\bin\WebGrease.dll
+C:\Users\PC\source\repos\Registration Page\bin\System.Web.Optimization.xml
+C:\Users\PC\source\repos\Registration Page\bin\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\Registration Page\bin\Antlr3.Runtime.pdb
+C:\Users\PC\source\repos\Registration Page\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PC\source\repos\Registration Page\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\source\repos\Registration Page\obj\Debug\Registration Page.csproj.CopyComplete
+C:\Users\PC\source\repos\Registration Page\obj\Debug\Registration Page.dll
+C:\Users\PC\source\repos\Registration Page\obj\Debug\Registration Page.pdb
